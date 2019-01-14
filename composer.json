@@ -1,5 +1,5 @@
 {
-    "name": "cober/doctrine-encrypt-bundle",
+    "name": "c0ber/doctrine-encrypt-bundle",
     "type": "library",
     "keywords": ["doctrine", "symfony", "halite", "defuse", "encrypt", "decrypt"],
     "license": "MIT",
