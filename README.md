@@ -1,4 +1,4 @@
-# michaeldegroot/DoctrineEncryptBundle
+# c0ber/DoctrineEncryptBundle
 
 This is an fork of an fork ( ;) ) from the original bundle created by ambta which can be found here:
 [ambta/DoctrineEncryptBundle](https://github.com/ambta/DoctrineEncryptBundle)
